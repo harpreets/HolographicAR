@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UserTracker/Kinect/ZigfuTracking/GameObjUsrHeadTransform.cs">
+    <Files>
+      <File FileName="Assets/UserTracker/Kinect/ZigfuTracking/UserTrackerTransform.cs" Line="16" Column="1" />
+      <File FileName="Assets/UserTracker/Kinect/ZigfuTracking/GameObjUsrHeadTransform.cs" Line="29" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
